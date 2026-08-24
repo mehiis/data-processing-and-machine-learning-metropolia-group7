@@ -2,8 +2,8 @@
 
 ##### Group 7 members:
 <b>
-Hirv <br/>
-Mehiläinen <br/>
-Mäkinen <br/>
-Poliakov <br/>
+* Hirv <br/>
+* Mehiläinen <br/>
+* Mäkinen <br/>
+* Poliakov <br/>
 </b>
