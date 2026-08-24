@@ -1,8 +1,8 @@
 #### Metropolia University of Applied Sciences group assignments on course "Data processing and Machine Learning"
 -----
 ##### Group 7 members:
-* Hirv <br/>
-* Mehiläinen <br/>
-* Mäkinen <br/>
-* Poliakov <br/>
+* Gerli Hirv <br/>
+* Niko Mehiläinen <br/>
+* Johannes Mäkinen <br/>
+* Artem Poliakov <br/>
 
