@@ -1,6 +1,6 @@
-<h1>Metropolia University of Applied Sciences group assignments on course "Data processing and Machine Learning" </h1>
+## Metropolia University of Applied Sciences group assignments on course "Data processing and Machine Learning"
 
-<h2>Group 7 memebers: </h2>
+### Group 7 memebers:
 <b>
 Hirv <br/>
 Mehiläinen <br/>
