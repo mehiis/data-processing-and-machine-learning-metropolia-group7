@@ -1,7 +1,7 @@
-##Metropolia University of Applied Sciences group assignments on course "Data processing and Machine Learning
+<h1>Metropolia University of Applied Sciences group assignments on course "Data processing and Machine Learning </h1>
 
-#Group 7 memebers:
-Hirv 
+<h2>Group 7 memebers: </h2>
+<b>Hirv 
 Mehiläinen
 Mäkinen
-Poliakov
+Poliakov</b>
